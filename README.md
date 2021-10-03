@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m developing recurrent network of binary neurons that will leverage self-organized connectivity structure for sample-efficient encoding of episodic memories.
+- 🔭 I’m developing a recurrent network of binary neurons that will leverage self-organized connectivity structure for sample-efficient encoding of episodic memories.
 - :rocket: I’m currently learning *CUDA C++* to super-charge my model's performance.
 - :handshake: I’m looking to collaborate on *self-organization in biologically-plausible computatational models, sample-efficient memory encoding*.
 - 💬 Ask me about anything.
