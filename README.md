@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 My current work spans
-  - 語 simultaneous LLM-based machine translation
+  - 語 simultaneous [LLM-based machine translation](https://github.com/RomanKoshkin/transllama)
   - 🕵️ multiagent-based reasoning
   - 🧠 sample efficient learning and self-organization in spiking neural networks (SNNs)
 - :handshake: I’m looking to collaborate on those things👆
